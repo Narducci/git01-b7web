@@ -15,3 +15,7 @@
 # Texto alterado via github web.
 
 AUTENTICANDO VIA TOKEN
+
+-TAGS conceito
+git tag -l (lista as tags criadas)
+git tag v-0.0.1 
